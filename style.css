@@ -1,0 +1,9 @@
+body{
+    background-color:aquamarine;
+    color:black;
+}
+#camera{
+    border: 2px dashed black;
+    height:300px;
+    width:300px;
+}
